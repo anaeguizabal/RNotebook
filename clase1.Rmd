@@ -1,0 +1,20 @@
+Arithmetic with R
+
+```{r}
+5+5 -3
+10-2
+3*5
+(5+5)/2
+28%%6
+```
+asignación de variables
+```{r}
+x <- 10
+x
+y <- 9
+result <- x-y
+```
+
+
+```{r}
+my_numeric <-423
